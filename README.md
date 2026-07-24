@@ -4,6 +4,8 @@ Greenfield prototype for the AI Engineer case study: a client + CPA tax workspac
 
 **Prototype:** https://avantika-27.github.io/GreenGrowth-AI-Powered-Tax-Platform/
 
+**Walkthrough video:** [`walkthrough/GreenGrowth-Walkthrough.mp4`](./walkthrough/GreenGrowth-Walkthrough.mp4) (~1.5 min, screen recording + narration). Re-record with your own voice using [`walkthrough/NARRATION_SCRIPT.md`](./walkthrough/NARRATION_SCRIPT.md) if preferred.
+
 **Run locally:** `npm install && npm run dev`
 
 ---

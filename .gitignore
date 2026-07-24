@@ -25,3 +25,8 @@ dist-ssr
 
 # Confidential case study brief — do not publish
 AI_Engineer_Case_Study_Updated.pdf
+
+# Walkthrough intermediates (keep the final mp4)
+walkthrough/*.aiff
+walkthrough/*.webm
+walkthrough/narration.txt
